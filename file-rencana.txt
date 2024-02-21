@@ -1,3 +1,5 @@
 rencana konten
 -java
 -html
+-CSS
+-js
